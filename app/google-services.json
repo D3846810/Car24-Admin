@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352916439219",
+    "project_id": "car-finder-user-app",
+    "storage_bucket": "car-finder-user-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352916439219:android:2a04d3e6bfe67f1950b0c6",
+        "android_client_info": {
+          "package_name": "uk1.ac.tees.mad.d3846810"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wD9lqg5UvZp9TnhLo4o6xrT0PbDuJjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

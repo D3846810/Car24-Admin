@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container_view_notifications" type="id" />
+    <item name="fragment_container_view_category" type="id" />
+    <item name="fragment_container_view_bookings" type="id" />
+    <item name="fragment_container_view_products" type="id" />
+    <item name="fragment_container_view_login" type="id" />
+    <item name="fragment_container_view_slider" type="id" />
+    <item name="fragment_container_view_edit_product" type="id" />
+    <item name="fragment_container_view_add_product" type="id" />
+</resources>
